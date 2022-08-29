@@ -15,7 +15,7 @@ For details see Documentation folder.
 ## Usage
 
  1. Install  https://github.com/aff3ct simulator.
- 2. Run one of the command strings below:
+ 2. Run one of the command strings listed below:
  
 ```bash
  aff3ct --sim-type BFER -C LDPC --src-type AZCW -K 172 -N 516 -m 0.00 -M 3.51 -s 0.5 -e 30 --dec-implem SPA -i 50 --dec-h-path ../path/to/dat172.alist > K172N516.txt
